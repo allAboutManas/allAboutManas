@@ -13,6 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+</p>
+  <a href="https://linkedin.com/in/manas-raj-a34125293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas-raj-a34125293/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/allabout_manas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/allabout_manas/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/www.youtube.com/@codeatease131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@codeatease131" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/manasmishra1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/manasmishra1" height="30" width="40" /></a>
