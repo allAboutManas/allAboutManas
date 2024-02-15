@@ -30,4 +30,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allaboutmanas&show_icons=true&locale=en" alt="allaboutmanas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allaboutmanas&" alt="allaboutmanas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allaboutmanas&" alt="allAboutmanas" /></p>
+<img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=allAboutManas&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false"
+    height="300"
+    alt="activity-graph graph"
+  />
