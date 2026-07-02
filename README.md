@@ -1,38 +1,170 @@
+<!-- Banner -->
 ![logo](https://github.com/allAboutManas/allAboutManas/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Manas Raj</h1>
-<h3 align="center">A passionate Computer Science Student from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<h3 align="center">⚙️ Aspiring Software Engineer | Systems Thinker | Engineering Real-World Solutions 🌍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allaboutmanas&label=Profile%20views&color=0e75b6&style=flat" alt="allaboutmanas" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineering+%7C+System+Design;Python+%7C+React+%7C+Docker+%7C+PostgreSQL;I+engineer+solutions%2C+not+just+code;Thinking+in+systems%2C+building+for+scale" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on [https://github.com/allAboutManas/TextUtilityApp](https://github.com/allAboutManas/TextUtilityApp)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=allaboutmanas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="allaboutmanas" />
+</p>
 
-- 🌱 I’m currently learning **React And Python**
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 📫 How to reach me **rm.manasraj@gmail.com**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+```python
+class ManasRaj:
+    def __init__(self):
+        self.role = "Software Engineer in the Making"
+        self.thinks_in = ["systems", "trade-offs", "real-world scenarios"]
+        self.mission = "Master the craft of engineering — not just the code"
+
+    def philosophy(self):
+        return "Anyone can write code. Engineers design solutions."
+```
+
+- ⚙️ **Engineering over coding** — I don't just ask *"how do I build this?"*, I ask *"why, for whom, and what breaks at scale?"*
+- 🏗️ Diving deep into **system design** — architecture, databases, distributed thinking, and the trade-offs behind every real-world product
+- 🔭 Currently building **[TextUtilityApp](https://github.com/allAboutManas/TextUtilityApp)** — because ideas only matter when they ship
+- 🧠 On a mission to **expand my thinking horizon** — studying how great systems (and great engineers) are actually made
+- ⚔️ **Sharpening my problem-solving blade daily** on Codeforces, CodeChef & LeetCode
+- 🌍 Open to **collaborations, open source & internship opportunities**
+- 📫 Let's talk: **rm.manasraj@gmail.com**
+- ⚡ Motto: **"Think deeply. Design deliberately. Build relentlessly."**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
 <p align="left">
-</p>
-  <a href="https://linkedin.com/in/manas-raj-a34125293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas-raj-a34125293/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/allabout_manas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/allabout_manas/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@codeatease131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@codeatease131" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/manasmishra1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/manasmishra1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/manasraj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/manasraj01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/manas_mishra1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/manas_mishra1/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/manasmishra1013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/manasmishra1013" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allaboutmanas&show_icons=true&locale=en&layout=compact" alt="allaboutmanas" /></p>
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allaboutmanas&show_icons=true&locale=en" alt="allaboutmanas" /></p>
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allaboutmanas&" alt="allAboutmanas" /></p>
-<img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=allAboutManas&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false"
-    height="300"
-    alt="activity-graph graph"
-  />
+### ☁️ DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### 🧭 Currently Mastering
+<p align="left">
+  <img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-4B8BBE?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP_Design-8E44AD?style=for-the-badge&logo=uml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating_Systems-2C3E50?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Networks-16A085?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+---
+
+## 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/manas-raj-a34125293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/allabout_manas/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@codeatease131" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:rm.manasraj@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+## ⚔️ Competitive Programming Profiles
+
+<p align="left">
+  <a href="https://codeforces.com/profile/manasraj01" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/manasmishra1" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/manas_mishra1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/manasmishra1013" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<!-- NOTE: The public vercel instance of github-readme-stats is rate-limited.
+     If these cards ever stop loading, deploy your own free instance
+     (takes ~10 min): https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+     and replace "github-readme-stats.vercel.app" below with your own URL. -->
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=allaboutmanas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=allaboutmanas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=allaboutmanas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allAboutManas&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" width="95%" alt="Activity Graph" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=allaboutmanas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</p>
+
+---
+
+<h3 align="center">💡 "First, solve the problem. Then, write the code." – John Johnson</h3>
+<p align="center"><i>Great software isn't written — it's engineered.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%" />
+</p>
